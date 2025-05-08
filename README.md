@@ -1,14 +1,14 @@
 # 🔁 If, Else, Elif – Basic Decision-Making in Python
 
-Python lets you make decisions using `if`, `else`, and `elif` (short for "else if").
+Python lets you make decisions using `if`, `else`, and `elif` (short for "else if").  
 This allows your program to react differently based on conditions.
 
 ---
 
 ## 💡 When to Use
 
-* Run a block of code only if a condition is true
-* Add different outcomes using `else`
+* Run a block of code only if a condition is true  
+* Add different outcomes using `else`  
 * Add more than two options using `elif`
 
 ---
@@ -36,9 +36,9 @@ You're a teenager.
 
 ### 📌 Key Notes
 
-* Each condition is checked **top to bottom**
-* Only the **first matching** condition runs
-* Use `:` at the end of each condition line
+* Each condition is checked **top to bottom**  
+* Only the **first matching** condition runs  
+* Use `:` at the end of each condition line  
 * Use **indentation** (4 spaces) to show what belongs inside the condition
 
 ---
@@ -66,7 +66,7 @@ Grade: B
 
 ---
 
-🐍 This is part of the **Pythonly** beginner series.
+🐍 This is part of the **Pythonly** beginner series.  
 Learn Python one line at a time. Follow **@Pythonly** for more.
 
 ---
